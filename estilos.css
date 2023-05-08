@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: gray;
+    align-items: center;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+p{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    font-size: 1rem;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.video{
+    margin: 0 auto;
+    display: block;
+}
